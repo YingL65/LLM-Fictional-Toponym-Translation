@@ -1,0 +1,604 @@
+﻿Experiment,Toponym,Lexical Status,Transparency,Context,Output,Text
+Exp0,Winterfell,Existing,Transparent,Zero,"冬堡
+
+Rationale: I translated “Winter” as “冬” to preserve the seasonal meaning, and “fell” as “堡” to evoke a fortified stronghold or castle-like place. The strategy was to create a concise, natural-sounding Chinese toponym that keeps the original sense and atmosphere rather than transliterating the name.",
+Exp0,Whitetree,Existing,Transparent,Zero,"白树
+
+我将其直译为“白树”，保留了原名的字面构成与地名感，采用常见、自然的汉语表达方式。",
+Exp0,Queenscrown,Existing,Transparent,Zero,"女王冠
+
+Rationale: I translated “Queen” as “女王” and “crown” as “冠,” preserving the original compound meaning while keeping it concise and place-name-like in Chinese.",
+Exp0,Gulltown,Existing,Transparent,Zero,"海鸥镇
+
+我将 “Gull” 译为“海鸥”，保留其鸟类意象；“town” 译为“镇”，以自然、常见的中文地名后缀来呈现这是一个城镇型地名。",
+Exp0,Riverrun,Existing,Transparent,Zero,"溪流城
+
+Rationale: I translated “River” as “溪流” to preserve the sense of a flowing waterway, and “run” as “城” to make it read naturally as a place name in Chinese. The result aims to sound like a plausible toponym rather than a literal word-for-word rendering.",
+Exp0,Dragonstone,Existing,Transparent,Zero,"龙石岛
+
+Rationale: I translated “Dragon” as “龙” and “stone” as “石,” then added “岛” to reflect a place-name feel in Chinese and make it sound like a geographic toponym rather than a literal object.",
+Exp0,Bitterbridge,Existing,Transparent,Zero,"苦桥
+
+Rationale: I translated “Bitter” as “苦” to preserve the harsh, unpleasant connotation, and “bridge” as “桥” for a direct, natural Chinese rendering. The strategy is a straightforward semantic translation that keeps the place name clear and evocative.",
+Exp0,Sunspear,Existing,Transparent,Zero,"日矛城
+
+Rationale: I translated “Sun” as “日” and “spear” as “矛,” then added “城” to make it read naturally as a place name in Chinese. This keeps the original imagery while giving it a toponymic feel.",
+Exp0,Highgarden,Existing,Transparent,Zero,"高庭
+
+我将其译为“高庭”，采用直译加意象保留的策略：  
+- “High”对应“高”，保留地名中的高度、尊贵感。  
+- “garden”在此更像是庄园、园地或城堡式园林意象，译作“庭”能兼顾“庭院/府邸/园庭”的古典地名风格。  
+整体上简洁、庄重，也符合中文地名常见的两字结构。",
+Exp0,Maidenpool,Existing,Transparent,Zero,"处女池
+
+Rationale: I translated “Maiden” as “处女,” which preserves the literal sense of an unmarried young woman, and “pool” as “池,” a natural Chinese equivalent for a pool or small body of water. This keeps the name concise, readable, and faithful to the original imagery.",
+Exp0,Pentos,Existing,Opaque,Zero,"潘托斯
+
+我采用了音译策略，将 “Pentos” 按其英文读音近似转写为“潘托斯”。这样既保留了专名的异域感，也符合中文对虚构地名常见的音译习惯。",
+Exp0,Braavos,Existing,Opaque,Zero,"布拉沃斯
+
+我采用了音译策略，将 “Braavos” 的发音尽量转写为中文，同时保持其作为专有地名的异域感与辨识度。",
+Exp0,Astapor,Existing,Opaque,Zero,"阿斯塔波
+
+译法说明：采用音译为主，尽量保留原名的读音与异域感；“Astapor”可拆作近似音节“阿-斯-塔-波”，用常见汉字组合成自然的中文专名。",
+Exp0,Myr,Existing,Opaque,Zero,"米尔
+
+Rationale: I transliterated “Myr” into Chinese using a close phonetic rendering. “米尔” preserves the approximate pronunciation while using common, natural Chinese characters for a place name.",
+Exp0,Qarth,Existing,Opaque,Zero,"卡斯
+
+Rationale: I chose a phonetic transliteration that preserves the short, sharp sound of “Qarth” while fitting natural Chinese syllable patterns. “卡斯” is concise, easy to read, and works well as a place name without adding extra meaning.",
+Exp0,Asshai,Existing,Opaque,Zero,"阿夏伊
+
+Rationale: I transliterated the name to preserve its foreign, fictional feel while keeping it natural in Chinese. “阿” helps create a smooth phonetic start, and “夏伊” approximates the original sound of “-shai” without forcing an existing meaning onto the toponym.",
+Exp0,Norvos,Existing,Opaque,Zero,"诺沃斯
+
+我采用了音译策略，将 “Norvos” 按其英文发音近似转写为“诺沃斯”。这样既保留了原名的异域感，也符合中文地名常见的音译习惯。",
+Exp0,Yunkai,Existing,Opaque,Zero,"云开
+
+Rationale: I rendered “Yunkai” phonetically and semantically as “云开,” which preserves the sound of “Yun” while giving “kai” a natural Chinese character with a positive, place-name-like meaning (“clouds part/open”). This makes it feel like a plausible Chinese toponym rather than a direct transliteration.",
+Exp0,Meereen,Existing,Opaque,Zero,"弥林
+
+Rationale: I chose a transliteration-based rendering to preserve the proper-name feel of “Meereen” while making it natural in Chinese. “弥” and “林” together give a smooth, compact sound approximation and a place-name-like appearance.",
+Exp0,Volantis,Existing,Opaque,Zero,"沃兰提斯
+
+我采用了音译为主的策略：将 “Volantis” 按其英文读音拆分并转写为中文近似音节，尽量保留原名的异域感与专名属性，同时避免赋予额外含义。",
+Exp0,Boararch,Coined,Transparent,Zero,"野猪桥
+
+Rationale: I translated “Boar” as “野猪” to preserve the animal imagery, and “arch” as “桥” because it can suggest an arched structure or bridge-like form in a place name. I chose a natural-sounding Chinese toponym that keeps the original components recognizable.",
+Exp0,Monkeybeak,Coined,Transparent,Zero,"猴嘴
+
+Rationale: I translated “Monkey” as “猴” and “beak” as “嘴,” using a direct, natural Chinese rendering that preserves the image of a monkey-like beak-shaped place name.",
+Exp0,Moonsunk,Coined,Transparent,Zero,"月沉
+
+Rationale: I translated “Moon” as “月” and “sunk” as “沉,” preserving the original imagery and compact, place-name-like feel. This keeps the toponym evocative and natural in Chinese while staying close to the source meaning.",
+Exp0,Floodmist,Coined,Transparent,Zero,"洪雾
+
+I translated “Floodmist” by combining the meanings of “flood” and “mist” into a concise, natural-sounding Chinese place-name style. “洪” conveys flooding or great waters, and “雾” means mist or fog.",
+Exp0,Starroll,Coined,Transparent,Zero,"星罗尔
+
+Rationale: I transliterated “Starroll” into Chinese by preserving its sound while using “星” to echo the “star” element in the name. “罗尔” approximates the remaining pronunciation and keeps it natural as a place name.",
+Exp0,Winefleet,Coined,Transparent,Zero,"葡萄舰队
+
+Rationale: I translated “Wine” as “葡萄” to evoke the grape/wine association, and “fleet” as “舰队” to preserve the sound and sense of a collective maritime term. This is a direct semantic rendering of the toponym, aiming for a clear, place-name-like Chinese form.",
+Exp0,Conquerbay,Coined,Transparent,Zero,"征服湾
+
+Rationale: I translated “Conquer” as “征服,” which conveys the sense of conquest or subduing, and “bay” as “湾,” the standard Chinese term for a bay. I kept the structure direct and natural for a place name.",
+Exp0,Ciderport,Coined,Transparent,Zero,"苹果酒港
+
+Rationale: I translated “Cider” as “苹果酒,” which is the direct Chinese term for cider, and “port” as “港,” a common Chinese place-name element meaning harbor or port. This keeps the toponym clear, natural, and semantically faithful.",
+Exp0,Mirrorhang,Coined,Transparent,Zero,"镜悬
+
+Rationale: I translated “Mirror” as “镜” to preserve the image of a reflective surface, and “hang” as “悬” to convey the sense of something hanging or suspended. Together, “镜悬” keeps the original toponym’s compact, evocative feel while sounding natural in Chinese.",
+Exp0,Swordthorn,Coined,Transparent,Zero,"剑棘
+
+Rationale: I translated “Sword” as “剑” and “thorn” as “棘,” choosing a concise, evocative compound that preserves the sharp, dangerous imagery of the original toponym while sounding natural as a place name in Chinese.",
+Exp0,Isplynia,Coined,Opaque,Zero,"伊斯普利尼亚
+
+我采用了音译策略，将 “Isplynia” 按其读音拆分并用接近的汉字对应，尽量保留原名的发音特征，同时使其符合中文地名的常见译写方式。",
+Exp0,Tospyte,Coined,Opaque,Zero,"托斯皮特
+
+Rationale: I transliterated the toponym phonetically into Chinese characters that closely approximate the sound of “Tospyte,” while keeping the form natural as a place name.",
+Exp0,Rystosia,Coined,Opaque,Zero,"里斯托西亚
+
+Rationale: I transliterated the name phonetically into Chinese characters that approximate the original pronunciation while keeping it natural as a place name. “里斯托西亚” preserves the syllable structure of “Rystosia” and uses common, readable characters suitable for a toponym.",
+Exp0,Kyremi,Coined,Opaque,Zero,"基雷米
+
+我采用了音译策略，将 “Kyremi” 按其大致发音转写为中文“基雷米”。这样既保留了原名的音感，也符合中文地名常见的音译习惯。",
+Exp0,Srikyme,Coined,Opaque,Zero,"斯里凯姆
+
+我采用了音译为主的策略：将 “Sri-” 处理为“斯里”，保留其开头音节的自然汉语近似；将 “-kyme” 处理为“凯姆”，兼顾读音接近与中文地名常见的音节结构。整体上尽量保持原名的发音特征，同时使译名符合中文地名的书写习惯。",
+Exp0,Piakilos,Coined,Opaque,Zero,"皮亚基洛斯
+
+我采用了音译策略，将 “Piakilos” 按其大致发音拆分为“皮亚-基-洛斯”，用中文中较自然的音节对应来保留原名的读音特征，同时避免赋予额外含义。",
+Exp0,Sedorox,Coined,Opaque,Zero,"塞多罗克
+
+Rationale: I transliterated “Sedorox” into Chinese characters that closely match its pronunciation while keeping a natural toponym-like form. “塞多罗克” preserves the syllabic flow and gives the name a place-name feel in Chinese.",
+Exp0,Aelritos,Coined,Opaque,Zero,"埃尔里托斯
+
+Rationale: I rendered “Aelritos” phonetically into Chinese characters that approximate the original sound while keeping a natural toponym-like form. “埃尔里托斯” preserves the initial “Ae-” as “埃尔,” and the remaining syllables are matched with common transliteration characters to maintain readability and a place-name feel.",
+Exp0,Zaloko,Coined,Opaque,Zero,"扎洛科
+
+我采用了音译策略，将 “Zaloko” 按其发音近似转写为中文地名形式“扎洛科”。这种处理保留了原名的音感与专名特征，同时符合中文地名常见的音译习惯。",
+Exp0,Kureavas,Coined,Opaque,Zero,"库雷阿瓦斯
+
+Rationale: I transliterated the toponym phonetically into Chinese characters that closely approximate the original sounds: “Ku-re-a-vas” → “库雷阿瓦斯”. This keeps it recognizable as a place name while using common, natural-sounding Chinese syllables.",
+Exp1,,Existing,Transparent,Original,"他在他们离开临冬城时带上了自己最暖和的衣物，却很快发现那根本远远不够暖和。
+
+地名“Winterfell”采用了音义兼顾的译法，译为“临冬城”：既保留了原名作为专有地名的识别性，又用“冬”传达其寒冷、北境的语义联想，并以“城”体现其作为城堡/据点的性质。","He had brought his warmest clothing with him when they rode out of Winterfell, and soon discovered that it was nowhere near warm enough."
+Exp1,,Existing,Transparent,Original,"在临冬城，他总会在自己的餐桌旁多摆一把椅子，而且每天都会请一位不同的人来与他同桌。
+
+地名“Winterfell”采用了音义兼顾的译法，译为“临冬城”：既保留了专名的独特性，又通过“临冬”传达出其寒冷、北境的氛围；“城”则点明这是一个地名中的城堡/据点。","At Winterfell, he always had an extra seat set at his own table, and every day a different man would be asked to join him."
+Exp1,,Existing,Transparent,Original,"一切都不是他所预料的；白树是他们经过的第四个村子，而在之前的每一个村子里，情况也都是一样。
+
+地名“Whitetree”采用了直译加意译的方式，译为“白树”，保留其字面意象和专有名词感，同时便于中文读者理解和接受。","Nothing was what he had expected; Whitetree was the fourth village they had passed, and it had been the same in all of them."
+Exp1,,Existing,Transparent,Original,"一棵巨大的鱼梁木长在这里的中央……但有一棵白树，并不一定就意味着这里是白树村。
+
+译名处理思路：我将 “weirwood” 译为“鱼梁木”，保留其作为特定奇幻树种的专名感；“Whitetree” 则译为“白树村”，把它处理为地名而非普通名词，以体现原文中“白树”与地名“Whitetree”之间的双关关系。这样既保留了字面含义，也尽量传达“白树不一定就是白树村”的语义转折。","A huge weirwood grew in the center of this one … but a white tree did not mean Whitetree, necessarily."
+Exp1,,Existing,Transparent,Original,"冰原狼的呼吸在林间空气中凝成了霜，他一瘸一拐地跟在他们后面，后腿仍因在女王冠城时挨的那一箭而受伤。
+
+地名“Queenscrown”采用了意译处理，译为“女王冠城”，保留其由“queen”和“crown”构成的意象，同时让中文读者更容易理解其作为地名的感觉，而不强行音译。","The direwolf’s breath frosted the forest air as he padded after them, still limping on the hind leg that had taken the arrow back at Queenscrown."
+Exp1,,Existing,Transparent,Original,"那位温柔的巨人一感觉到他，就会呜咽起来，把那颗毛茸茸的脑袋左右甩动，但没有第一次在奎恩斯克朗时那么猛烈。  
+
+地名“Queenscrown”采用了音译加意译的思路，译为“奎恩斯克朗”，尽量保留原名的专有性和读音特征，同时让中文读者能把它识别为一个地名，而不是普通名词。","The gentle giant would whimper when he felt him, and thrash his shaggy head from side to side, but not as violently as he had the first time, back at Queenscrown."
+Exp1,,Existing,Transparent,Original,"她听说谷地镇有些很好的女裁缝，而她又实在厌倦了穿得那样朴素。
+
+地名“Gulltown”我译作“谷地镇”，采用了意译加地名后缀的方式：保留其作为城镇名称的功能，同时让中文读者能自然理解这是一个地名，而不必直译出英文中的字面意象。","She had heard there were fine seamstresses in Gulltown, and she was so tired of dressing drably."
+Exp1,,Existing,Transparent,Original,"给我两周时间来处理我的事务，并安排一艘船把我送到海鸥镇。
+
+地名“Gulltown”采用了意译加音义兼顾的处理方式：其中“gull”对应“海鸥”，“town”对应“镇”，这样既保留了原名的语义，也符合中文地名的自然表达习惯。",Give me a fortnight to conclude my affairs and arrange for a ship to carry me to Gulltown.
+Exp1,,Existing,Transparent,Original,"他看上去不知怎的更瘦小了，也更脆弱了，像是她十五年前在奔流城的七神圣堂里嫁给的那个年轻人。  
+
+地名“Riverrun”译作“奔流城”，采用了意译加音译感的处理：保留其作为城名的专有属性，同时用“奔流”传达原名中“river/run”所带来的河流奔涌之意，符合中文奇幻语境中的地名习惯。","He looked somehow smaller and more vulnerable, like the youth she had wed in the sept at Riverrun, fifteen long years gone."
+Exp1,,Existing,Transparent,Original,"她在奔流城时所认识的那个羞怯女孩，如今已长成一个女人，时而骄傲，时而胆怯，时而残忍，时而多梦，时而鲁莽，时而怯懦，时而固执，时而虚荣，而最重要的是，反复无常。
+
+地名“Riverrun”采用意译为“奔流城”，既保留了原名中“river”与“run”所传达的河流奔涌之意，又符合中文奇幻语境中对城堡/领地名称的习惯表达，读起来自然且有画面感。","The shy girl she had known at Riverrun had grown into a woman who was by turns proud, fearful, cruel, dreamy, reckless, timid, stubborn, vain, and, above all, inconstant."
+Exp1,,Existing,Transparent,Original,"她是在他们逃离后的九个月后，伴随着一场肆虐的夏季风暴、仿佛要将那座坚固的岛上堡垒撕裂开来之际，出生于龙石岛的。  
+
+地名“Dragonstone”采用了意译加音译感较强的固定译法“龙石岛”，既保留了原名的意象，又符合中文读者对地名的自然理解；“fastness”则译为“坚固的岛上堡垒”，以传达其“险要、难攻”的含义。","She had been born on Dragonstone nine moons after their flight, while a raging summer storm threatened to rip the island fastness apart."
+Exp1,,Existing,Transparent,Original,"龙石岛的墙壁上火把摇曳闪烁，在外面的营地里，他能看见数百处炊火在燃烧，仿佛一片星辰坠落到了大地上。
+
+地名“Dragonstone”采用了意译加专名保留的方式，译为“龙石岛”，既保留了原名的奇幻感和地名属性，也让中文读者能直接理解其字面意象。","Torches flickered along the walls of Dragonstone, and in the camp beyond, he could see hundreds of cookfires burning, as if a field of stars had fallen to the earth."
+Exp1,,Existing,Transparent,Original,"他说，他的父亲曾是苦桥的一名军械匠，因此他自出生起耳边便常伴着钢铁的铿锵之声，也很早便开始习练剑术。
+
+地名“Bitterbridge”采用了意译，译为“苦桥”，保留其字面构成与地名感，同时符合中文读者对虚构地名的理解习惯。","His father had been an armorer at Bitterbridge, he said, so he had been born with the sound of steel ringing in his ears and had taken to swordplay at an early age."
+Exp1,,Existing,Transparent,Original,"“这里和苦桥之间有战斗，”他谨慎地说道。
+
+地名“Bitterbridge”采用了直译加意译的方式译为“苦桥”，保留了原名的语义色彩，同时符合中文地名的自然表达习惯。","“There is fighting between here and Bitterbridge,” he said cautiously."
+Exp1,,Existing,Transparent,Original,"下午的阴影又长又黑，太阳红得发胀，像王子的关节一样，直到他们在东边瞥见了阳戟城的塔楼。  
+
+地名“Sun­spear”采用了意译，译为“阳戟城”：既保留了原名中“sun”的意象，又用“戟”传达出“spear”的武器感，同时加上“城”以符合中文地名习惯，便于读者理解其为一座城池。",The shadows of the afternoon were long and dark and the sun was as red and swollen as the prince’s joints before they glimpsed the towers of Sunspear to the east.
+Exp1,,Existing,Transparent,Original,"向西，在阳戟城高大城墙的阴影里，泥砖铺面的店铺和没有窗户的棚屋像藤壶一样紧贴着城堡，仿佛附着在一艘桨帆船的船壳上。
+
+地名“Sun­spear”译作“阳戟城”，采用了意译加地名化处理：既保留原名中“太阳/阳光”与“长矛/戟”的意象，又用“城”明确其为城镇/城堡名称，符合中文地名的自然表达。","To the west, in the shadows of Sunspear’s massive walls, mud-brick shops and windowless hovels clung to the castle like barnacles to a galley’s hull."
+Exp1,,Existing,Transparent,Original,"小麦、玉米和大麦在它的田野里长得很高，即便是在高庭，那里的南瓜也没有这里的大，果子也没有这里的甜。
+
+地名“Highgarden”采用了意译，译为“高庭”，保留其作为专有地名的庄园感与“高”所传达的地势、华美意象，同时符合中文读者的理解习惯。","Wheat and corn and barley grew high in its fields, and even in Highgarden the pumpkins were no larger nor the fruit any sweeter than here."
+Exp1,,Existing,Transparent,Original,"高庭的财富与权势本可以在即将到来的战斗中起到决定性作用。
+
+地名“Highgarden”采用了意译，译为“高庭”，既保留了原名的意象，也符合中文奇幻语境中对地名的自然表达方式。",The wealth and power of Highgarden could have made all the difference in the fighting yet to come.
+Exp1,,Existing,Transparent,Original,"上次她见到处女池时，那座城镇已是一片荒凉；领主闭守在城堡里，平民则不是死了、逃了，就是躲了起来。
+
+地名“Maidenpool”我译作“处女池”，采用直译保留其字面意象与专名风格；这样既能让中文读者感受到原名的含义，也符合奇幻地名常见的命名方式。","When last she had seen Maidenpool, the town had been a desolation, its lord shut up inside his castle, its smallfolk dead or fled or hiding."
+Exp1,,Existing,Transparent,Original,"当他们从焦黑的树木间走出来，发现前方就是处女池，远处则是海湾深邃的水面时，太阳正半隐在一片云层后面。
+
+地名“Maidenpool”采用了音意兼顾的译法，译为“处女池”：既保留了原名中“Maiden”的含义，又用“池”传达出地名中“pool”的地理意象，便于中文读者理解并保持一定的文学感。","The sun was half-hidden behind a bank of clouds when they emerged from the blackened trees to find Maidenpool before them, with the deep waters of the bay beyond."
+Exp1,,Existing,Opaque,Original,"在城墙外，他们带着庞大的牲畜群扎营，搭起编织草料的宫殿，所见之物无不吃尽，并且随着日子一天天过去，让潘托斯的善良百姓愈发焦虑不安。
+
+地名“Pentos”译作“潘托斯”，采用音译，以保留专有地名的识别性与异域感，同时符合中文读者对虚构地名的常见接受方式。","Outside the city walls, they camped with their vast herds, raising palaces of woven grass, eating everything in sight, and making the good folk of Pentos more anxious with every passing day."
+Exp1,,Existing,Opaque,Original,"她心想，这座城池一定比潘托斯大上十倍，广阔无垠，没有城墙，也没有边界；它那宽阔而饱受风吹的街道铺着青草与泥土，地面上还铺满了野花。
+
+地名“Pentos”采用音译为“潘托斯”，以保留专有名词的异域感和原作中的地名识别度，同时避免意译造成的文化信息损失。","She thought it must be ten times as large as Pentos, a vastness without walls or limits, its broad windswept streets paved in grass and mud and carpeted with wildflowers."
+Exp1,,Existing,Opaque,Original,"“布拉佛斯有个放贷人，拿着些花里胡哨的文书之类的东西，说是要见国王，商谈一笔贷款的还款事宜。”
+
+地名“Braavos”我译作“布拉佛斯”，采用音译而非意译，因为它是专有地名，保留原有读音更能维持专名识别度，也符合中文里对虚构地名的常见处理方式。","There’s a moneylender from Braavos, holding fancy papers and the like, requests to see the king about payment on some loan."
+Exp1,,Existing,Opaque,Original,"有一次去布拉佛斯航行时，她看着船员们在渐起的狂风中合力收拢一张巨大的绿色船帆，甚至还想过，要是能当个水手该多好。
+
+地名“Braavos”采用音译为“布拉佛斯”，以保留其专有名词属性和原有异域感，同时避免意译造成的歧义。","Once on a voyage to Braavos, as she’d watched the crew wrestle down a great green sail in a rising gale, she had even thought how fine it would be to be a sailor."
+Exp1,,Existing,Opaque,Original,"阿斯塔波已经只剩下尸体了，所以它们正涌向乡间，成百上千，甚至可能有几千，全都又饿又病。
+
+地名“Astapor”采用音译为“阿斯塔波”，保留专有名词的原有指称与异域感，同时符合中文读者的发音习惯，避免意译造成地名信息丢失。","There’s nothing left in Astapor but corpses, so they’re pouring out into the countryside, hundreds of them, maybe thousands, all starved and sick."
+Exp1,,Existing,Opaque,Original,"这座城不是用红砖，而是用黄砖建成的；除此之外，它简直又是一次阿斯塔波的重现，依旧是那些坍塌的城墙和高耸的阶梯金字塔，城门上方还高高矗立着一只巨大的鹰身女妖。
+
+地名“Astapor”采用音译为“阿斯塔波”，以保留专有名词的异域感和原作设定中的独特性，同时避免意译削弱其作为虚构城市名称的识别度。","The city was built of yellow bricks instead of red; elsewise it was Astapor all over again, with the same crumbling walls and high stepped pyramids, and a great harpy mounted above its gates."
+Exp1,,Existing,Opaque,Original,"不久，我就成了密尔城里数一数二的窃贼；等我长大些，我又明白了，往往一个人的信件内容比他钱袋里的东西更有价值。
+
+地名“Myr”译作“密尔城”，采用音译并补足“城”以体现其为地名，同时保留原名的专有感与异域色彩。","Soon I was as good a thief as any in Myr, and when I was older I learned that often the contents of a man’s letters are more valuable than the contents of his purse."
+Exp1,,Existing,Opaque,Original,"最好的玻璃来自米尔，但一块上好的透明玻璃板其价值堪比同等重量的香料，而绿色和黄色玻璃的效果就没那么好了。
+
+地名“Myr”我译作“米尔”，采用音译以保留专有名词的异域感和识别性，同时避免意译造成地名含义失真。","The best glass came from Myr, but a good clear pane was worth its weight in spice, and green and yellow glass would not work as well."
+Exp1,,Existing,Opaque,Original,"在魁尔斯的城墙上，人们敲响铜锣来宣告她的到来，另一些人则吹响奇特的号角，那些号角缠绕在他们身上，宛如巨大的青铜蛇。
+
+地名“Qarth”采用音译为“魁尔斯”，以保留专有名词的异域感和识别性，同时符合中文读者的发音习惯。","On the walls of Qarth, men beat gongs to herald her coming, while others blew curious horns that encircled their bodies like great bronze snakes."
+Exp1,,Existing,Opaque,Original,"“说出这话让我很难过，但你最好还是尽早离开魁尔斯，甚至彻底离开那里。”
+
+地名“Qarth”我译作“魁尔斯”，采用音译，以保留专有名词的异域感和一致性；同时在中文里读起来较自然，适合幻想作品中的地名处理。","It grieves me to say so, yet it might be best if you left Qarth entirely, and sooner rather than later."
+Exp1,,Existing,Opaque,Original,"“还有人低声说，她不该出现在我的战争议事会上，说我应该把她送回亚夏，说我夜里把她留在我的帐篷里是有罪的。”
+
+地名“Asshai”采用音译为“亚夏”，以保留专有名词的异域感和原文指向性，同时避免意译造成的含义偏移。","Others whisper that she has no place in my war councils, that I ought to send her back to Asshai, that it is sinful to keep her in my tent of a night."
+Exp1,,Existing,Opaque,Original,"“来自许多国度的船只都驶往亚夏，因此我久久停留，研究远方诸族的疗愈之道。”
+
+地名“Asshai”采用音译为“亚夏”，以保留其专有名词属性和异域感，同时避免误译成带有具体含义的中文词语；这种处理也更符合奇幻地名在中文中的常见译法。","Ships from many lands come to Asshai, so I lingered long to study the healing ways of distant peoples."
+Exp1,,Existing,Opaque,Original,"很久以前，有个青涩的少年从诺佛斯而来，那是个肩膀宽阔的大男孩，顶着一头浓密的黑发。
+
+地名“Norvos”采用音译为“诺佛斯”，以保留其专有名词属性和异域感，同时便于中文读者识别与记忆。","Once, long ago, a callow youth had come from Norvos, a big broad-shouldered boy with a mop of dark hair."
+Exp1,,Existing,Opaque,Original,"他们穿过了诺沃斯起伏的丘陵，经过层层梯田和一个个小村庄，镇民们焦虑地站在白色灰泥墙顶上注视着他们。
+
+地名“Norvos”采用音译为“诺沃斯”，以保留专有名词的原有指称和异域感，同时符合中文读音习惯，避免意译造成地名含义不明确或失去原作风格。","They crossed the rolling hills of Norvos, past terraced farms and small villages where the townsfolk watched anxiously from atop white stucco walls."
+Exp1,,Existing,Opaque,Original,"来自渊凯的使者是在太阳西沉时抵达的；五十名骑着华丽黑马的人，外加一人骑着一头巨大的白骆驼。
+
+地名“Yunkai”采用了音译为主的处理方式，译作“渊凯”，以保留专有名词的异域感和识别度，同时让中文读者能够顺畅读出。",The envoys from Yunkai arrived as the sun was going down; fifty men on magnificent black horses and one on a great white camel.
+Exp1,,Existing,Opaque,Original,"到第三天结束时，我将会在渊凯，不管你们是否为我打开城门。  
+
+地名“Yunkai”采用音译为“渊凯”，以尽量保留原名的读音和专有名词属性，同时符合中文读者对虚构地名的接受习惯。","By the end of the third day, I will be in Yunkai, whether you open your gates for me or no."
+Exp1,,Existing,Opaque,Original,"等他们来到弥林时，这座坐落在河畔盐岸上的城池，数字已达一百六十三。
+
+地名“Meereen”采用音译为“弥林”，以保留专有名词的独特性和异域感，同时符合中文读者的阅读习惯；“salt coast beside her river”则译为“河畔盐岸”，尽量传达原文的地理意象。","By the time they came to Meereen sitting on the salt coast beside her river, the count stood at one hundred and sixty-three."
+Exp1,,Existing,Opaque,Original,"她还有一座城池要攻取，沉溺于亲吻和某个雇佣兵那双明亮的蓝眼睛，并不会帮助她攻破弥林的城墙。
+
+地名“Meereen”采用音译为“弥林”，以保留专有名词的识别性和异域感，同时符合中文读者对该虚构地名的自然读法与文本风格。","She had a city to take, and dreaming of kisses and some sellsword’s bright blue eyes would not help her breach the walls of Meereen."
+Exp1,,Existing,Opaque,Original,"他们把自己那套精良的盔甲连同金子和真名一起丢弃在瓦兰提斯了。
+
+地名“Volantis”采用音译为“瓦兰提斯”，以保留专有名词的异域感和原作设定中的独特性，同时避免意译造成歧义。","They had abandoned their own fine armor in Volantis, along with their gold and their true names."
+Exp1,,Existing,Opaque,Original,"等他们抵达瓦兰提斯时，西边的天空已呈紫色，东边则已漆黑，群星也开始显现。
+
+地名“Volantis”采用音译为“瓦兰提斯”，以保留专有名词的识别性和异域感，同时符合中文读者对虚构地名的自然接受方式。","By the time they reached Volantis, the sky was purple to the west and black to the east, and the stars were coming out."
+Exp2,,Coined,Transparent,Original,"当他们骑马离开博阿拉奇时，他把自己最厚的衣服都带在了身上，可很快就发现那远远不够暖和。
+
+地名“Boararch”我采用了音译“博阿拉奇”，因为它看起来像一个虚构或专有的地名，保留原有读音更能维持专名的识别度与异域感，同时避免误译其含义。","He had brought his warmest clothing with him when they rode out of Boararch, and soon discovered that it was nowhere near warm enough."
+Exp2,,Coined,Transparent,Original,"在博阿尔奇，他总是在自己的餐桌旁多摆一把椅子，而且每天都会邀请一位不同的男子与他同坐。
+
+地名“Boararch”我采用了音译“博阿尔奇”，以保留专有名词的独特性和原文的地名感，同时尽量让中文读音自然顺口。","At Boararch, he always had an extra seat set at his own table, and every day a different man would be asked to join him."
+Exp2,,Coined,Transparent,Original,"一切都不是他所预料的；猴喙村是他们经过的第四个村子，而前面几个村子也都一样。
+
+地名“Monkeybeak”采用了直译加意译的方式，译为“猴喙”，保留了原名的形象感和异域风格，同时符合中文对地名的自然表达习惯；若语境中“村”是固定后缀，则可理解为“猴喙村”。","Nothing was what he had expected; Monkeybeak was the fourth village they had passed, and it had been the same in all of them."
+Exp2,,Coined,Transparent,Original,"这座岛的中央长着一棵巨大的鱼梁木……但白树并不一定就意味着“猴喙”。
+
+翻译策略说明：  
+我将 **weirwood** 译为“鱼梁木”，保留其作为奇幻专有名词的常见意象；**Monkeybeak** 作为地名/专名，采用直译“猴喙”，以保留原文的形象感和命名风格，同时不擅自音译或改写。","A huge weirwood grew in the center of this one … but a white tree did not mean Monkeybeak, necessarily."
+Exp2,,Coined,Transparent,Original,"冰原狼的呼吸在林间空气中凝成了霜，他一瘸一拐地跟在他们后面，后腿仍因在月沉之地挨过的那一箭而跛着。
+
+地名“Moonsunk”采用了意译处理，译为“月沉之地”，以保留其诗意和奇幻感，同时让中文读者能直接理解其字面意象；这样既避免生硬音译，也更符合中文叙述中的地名风格。","The direwolf’s breath frosted the forest air as he padded after them, still limping on the hind leg that had taken the arrow back at Moonsunk."
+Exp2,,Coined,Transparent,Original,"那只温柔的巨兽一感觉到他，就会呜咽起来，左右甩动它那毛茸茸的脑袋，但没有第一次在月沉之地时那么猛烈。
+
+地名“Moonsunk”采用了意译处理，译为“月沉之地”，以保留其诗意和意象感：moon 对应“月”，sunk 表达“沉没、沉落”的感觉，同时补出“之地”使其更自然地作为地点名出现在中文语境中。","The gentle giant would whimper when he felt him, and thrash his shaggy head from side to side, but not as violently as he had the first time, back at Moonsunk."
+Exp2,,Coined,Transparent,Original,"她听说弗洛德米斯特有很好的女裁缝，而她已经厌倦了穿得如此朴素。
+
+地名“Floodmist”我采用了音译“弗洛德米斯特”，以保留其专有名词属性和原有的异域感，同时避免擅自赋予不确定的中文含义。","She had heard there were fine seamstresses in Floodmist, and she was so tired of dressing drably."
+Exp2,,Coined,Transparent,Original,"给我两周时间来处理完我的事务，并安排一艘船把我送到洪雾镇。
+
+地名“Floodmist”采用了意译加音义结合的处理思路：将其拆解为“flood”和“mist”两部分，分别对应“洪”和“雾”，既保留原名的意象，又让中文读者能直观理解其含义；同时用“镇”来自然化为中文地名表达。",Give me a fortnight to conclude my affairs and arrange for a ship to carry me to Floodmist.
+Exp2,,Coined,Transparent,Original,"他看上去不知怎的更瘦小，也更脆弱了，像是她十五年前在星落城的七神圣堂里嫁给的那个年轻人。  
+
+地名“Starroll”我译作“星落城”，采用了意译加地名化处理：保留“Star”带来的“星/星辰”意象，并用“落”营造出地名感，使其自然像中文中的虚构城名，同时避免生硬音译。","He looked somehow smaller and more vulnerable, like the youth she had wed in the sept at Starroll, fifteen long years gone."
+Exp2,,Coined,Transparent,Original,"她在星罗尔认识的那个害羞女孩，已经长成了一个时而骄傲、时而胆怯、时而残忍、时而梦幻、时而鲁莽、时而怯懦、时而固执、时而虚荣，而最重要的是反复无常的女人。
+
+“Starroll” 作为专有地名，我采用了音译“星罗尔”，尽量保留原名的独特性和可识别性，同时使其符合中文读音习惯。","The shy girl she had known at Starroll had grown into a woman who was by turns proud, fearful, cruel, dreamy, reckless, timid, stubborn, vain, and, above all, inconstant."
+Exp2,,Coined,Transparent,Original,"她是在他们逃亡九个月后，于温弗利特岛上出生的，当时一场狂暴的夏季风暴正威胁着要把这座岛屿要塞撕裂开来。
+
+地名“Winefleet”我采用了音译“温弗利特”，以保留其专有名词属性和异域感，同时避免擅自意译造成含义偏差；若上下文显示它是虚构地名，这种处理也更自然。","She had been born on Winefleet nine moons after their flight, while a raging summer storm threatened to rip the island fastness apart."
+Exp2,,Coined,Transparent,Original,"火把沿着酒舰城的城墙闪烁着，而在外面的营地里，他能看见数百处炊火在燃烧，仿佛一片星辰坠落到了大地上。
+
+地名“Winefleet”我译作“酒舰城”，采用了意译加音义结合的方式：保留其作为专名的感觉，同时用“酒”传达原词中的“Wine”意象，用“舰”呼应“fleet”的船队/舰队含义，并以“城”点明这是一个地名，便于中文读者理解和接受。","Torches flickered along the walls of Winefleet, and in the camp beyond, he could see hundreds of cookfires burning, as if a field of stars had fallen to the earth."
+Exp2,,Coined,Transparent,Original,"他说，他的父亲曾是征服湾的一名军械匠，因此他一出生耳边便回荡着钢铁的铿锵声，并且很早就开始习练剑术。
+
+地名“Conquerbay”采用了音义兼顾的处理方式，译为“征服湾”：其中“bay”对应“湾”，而“Conquer”保留其字面含义“征服”，既传达了地名的语义色彩，也保持了专名的异域感。","His father had been an armorer at Conquerbay, he said, so he had been born with the sound of steel ringing in his ears and had taken to swordplay at an early age."
+Exp2,,Coined,Transparent,Original,"“这里和康克贝之间有战斗，”他谨慎地说。
+
+译名策略说明：我将 **Conquerbay** 作为地名音译为“康克贝”，以保留专有名词的识别性，同时尽量贴近英文发音；“between here and Conquerbay”则自然译为“这里和康克贝之间”，符合中文表达习惯。","“There is fighting between here and Conquerbay,” he said cautiously."
+Exp2,,Coined,Transparent,Original,"下午的阴影又长又黑，太阳红得发胀，像王子的关节一样，直到他们瞥见东边的西德港塔楼。  
+
+地名“Ciderport”采用了音译加意译的处理思路：保留其专名属性，同时用“港”传达其为港口城镇的含义；“西德”则尽量贴近原词读音，兼顾可读性与中文地名习惯。",The shadows of the afternoon were long and dark and the sun was as red and swollen as the prince’s joints before they glimpsed the towers of Ciderport to the east.
+Exp2,,Coined,Transparent,Original,"向西，在西德港高大城墙的阴影里，泥砖商铺和没有窗户的棚屋像藤壶附着在桨帆船的船壳上一样，紧紧依偎着城堡。
+
+地名“Ciderport”采用了音义兼顾的译法，译为“西德港”：保留其作为港口城镇的地名特征（“港”），同时用接近原名读音的汉字来传达专名感，便于中文读者识别和记忆。","To the west, in the shadows of Ciderport’s massive walls, mud-brick shops and windowless hovels clung to the castle like barnacles to a galley’s hull."
+Exp2,,Coined,Transparent,Original,"小麦、玉米和大麦在它的田野里长得很高，即使在镜悬，南瓜也没有这里的大，果子也没有这里的甜。
+
+地名“Mirrorhang”采用了音意兼顾的处理思路：保留其专名属性，不直接意译成完全普通的汉语词组，同时用“镜悬”传达原词中“Mirror”的“镜”意和“hang”的悬挂、垂挂感，使中文读者既能感受到地名的意象，又能辨认出这是一个专有地名。","Wheat and corn and barley grew high in its fields, and even in Mirrorhang the pumpkins were no larger nor the fruit any sweeter than here."
+Exp2,,Coined,Transparent,Original,"镜悬的财富与力量本可以在即将到来的战斗中起到决定性作用。
+
+地名“Mirrorhang”采用了音意兼顾的处理方式，译为“镜悬”：既保留了原名的独特感和可辨识度，又通过“镜”传达“Mirror”的意象，“悬”则保留一种地名式的凝练感，适合中文语境中的虚构地名表达。",The wealth and power of Mirrorhang could have made all the difference in the fighting yet to come.
+Exp2,,Coined,Transparent,Original,"上次她见到剑荆镇时，这座城镇已是一片荒凉；它的领主被困在城堡里，平民则死的死、逃的逃，或躲藏了起来。
+
+地名 “Swordthorn” 采用了意译加音义结合的处理思路：其中 “Sword” 译作“剑”，“thorn” 译作“荆”，既保留了原名的意象和奇幻感，也让中文读者能直观感受到这个地名带有尖锐、危险的气质。","When last she had seen Swordthorn, the town had been a desolation, its lord shut up inside his castle, its smallfolk dead or fled or hiding."
+Exp2,,Coined,Transparent,Original,"当他们从焦黑的树木中走出来时，太阳半掩在一片云层后面，眼前便是剑荆镇，远处则是海湾的深水。
+
+地名“Swordthorn”采用了意译加音义结合的处理方式：将其译为“剑荆镇”，既保留了原名中“剑”和“thorn（荆棘）”所带来的尖锐、荒凉意象，也让中文读者更容易理解和接受；同时补上“镇”以符合中文地名习惯，使其自然融入句子。","The sun was half-hidden behind a bank of clouds when they emerged from the blackened trees to find Swordthorn before them, with the deep waters of the bay beyond."
+Exp2,,Coined,Opaque,Original,"城外，他们带着庞大的牲群扎营，搭起了编织草茎的宫殿，见什么吃什么，随着日子一天天过去，让伊斯普利尼亚的善良百姓愈发焦虑不安。
+
+地名“Isplynia”采用音译为“伊斯普利尼亚”，以尽量保留原名的专有性与异域感，同时符合中文读者对虚构地名的自然接受方式。","Outside the city walls, they camped with their vast herds, raising palaces of woven grass, eating everything in sight, and making the good folk of Isplynia more anxious with every passing day."
+Exp2,,Coined,Opaque,Original,"她心想，这里一定比伊斯普利尼亚大上十倍，是一片没有围墙也没有边界的辽阔之地；它宽阔而风吹日晒的街道铺着草和泥土，地面上还铺满了野花。
+
+地名“Isplynia”采用音译为“伊斯普利尼亚”，以保留专有名词的异域感和原文的指称功能，同时避免擅自赋予额外含义；若后文有明确文化背景，也可再根据语境统一调整译法。","She thought it must be ten times as large as Isplynia, a vastness without walls or limits, its broad windswept streets paved in grass and mud and carpeted with wildflowers."
+Exp2,,Coined,Opaque,Original,"有一位来自托斯派特的放贷人，拿着花哨的文件之类的东西，请求面见国王，商谈一笔贷款的还款事宜。
+
+地名“Tospyte”采用音译为“托斯派特”，以尽量保留原名的读音和专有名词属性，同时避免误译成具有特定含义的中文词语。","There’s a moneylender from Tospyte, holding fancy papers and the like, requests to see the king about payment on some loan."
+Exp2,,Coined,Opaque,Original,"在一次前往托斯派特的航程中，她看着船员们在渐起的狂风里合力收拢一张巨大的绿色船帆时，甚至曾想过，做一名水手该是多么美妙。
+
+地名“Tospyte”采用音译处理为“托斯派特”，以尽量保留原名的读音和专有名词属性，同时避免擅自赋予其中文含义。","Once on a voyage to Tospyte, as she’d watched the crew wrestle down a great green sail in a rising gale, she had even thought how fine it would be to be a sailor."
+Exp2,,Coined,Opaque,Original,"“里斯托西亚”里除了尸体什么都不剩了，所以他们正成群涌向乡间，成百上千，可能有几千人，全都又饿又病。
+
+地名“Rystosia”我译作“里斯托西亚”，采用音译为主的策略，尽量保留原名的读音和专有名词特征，同时让中文读者能自然读出。","There’s nothing left in Rystosia but corpses, so they’re pouring out into the countryside, hundreds of them, maybe thousands, all starved and sick."
+Exp2,,Coined,Opaque,Original,"这座城市是用黄色砖块而不是红色砖块建成的；除此之外，它简直又是一次里斯托西亚的重现，依旧是那些坍塌的城墙和高耸的阶梯金字塔，以及一只巨大的鹰身女妖高悬在城门之上。
+
+地名“Rystosia”我译作“里斯托西亚”，采用音译，以保留其作为虚构专名的异域感和识别性，同时避免意译造成含义偏移。","The city was built of yellow bricks instead of red; elsewise it was Rystosia all over again, with the same crumbling walls and high stepped pyramids, and a great harpy mounted above its gates."
+Exp2,,Coined,Opaque,Original,"不久，我就成了基雷米城里数一数二的窃贼；等我长大些，我又明白了，很多时候，一个人信里的内容比他钱袋里的东西更有价值。
+
+地名“Kyremi”采用音译为“基雷米”，以保留原有专名的异域感和识别性，同时符合中文读者的发音习惯；未意译，是为了避免削弱其作为虚构地名的专有属性。","Soon I was as good a thief as any in Kyremi, and when I was older I learned that often the contents of a man’s letters are more valuable than the contents of his purse."
+Exp2,,Coined,Opaque,Original,"最好的玻璃来自基雷米，但一块上好的透明玻璃片其价值堪比同等重量的香料，而绿色和黄色玻璃的效果就没那么好了。
+
+地名“Kyremi”采用音译为“基雷米”，以保留专有名词的原有音感和识别性，同时避免误译为具有具体含义的中文词语。","The best glass came from Kyremi, but a good clear pane was worth its weight in spice, and green and yellow glass would not work as well."
+Exp2,,Coined,Opaque,Original,"在斯里凯姆的城墙上，人们敲击锣鼓来宣告她的到来，另一些人则吹响那种奇特的号角，这些号角像巨大的青铜蛇一样缠绕在他们的身上。
+
+地名“ Srikyme ”我采用了音译“斯里凯姆”，以尽量保留原名的异域感和专有名词属性，同时让中文读者能够顺畅读出。","On the walls of Srikyme, men beat gongs to herald her coming, while others blew curious horns that encircled their bodies like great bronze snakes."
+Exp2,,Coined,Opaque,Original,"“我很遗憾这么说，但你最好还是彻底离开斯里凯姆，而且越早越好。”
+
+地名“Srikyme”我采用了音译“斯里凯姆”，以保留其专有名词属性和原有异域感，同时避免擅自赋予其中文含义；这种处理也更适合未有固定译名的虚构或不常见地名。","It grieves me to say so, yet it might be best if you left Srikyme entirely, and sooner rather than later."
+Exp2,,Coined,Opaque,Original,"“还有人低声说，她不该出现在我的军事会议上，我应该把她送回皮亚基洛斯去，而且把她留在我的帐篷里过夜也是有悖于教义的。”
+
+地名“Piakilos”采用音译为“皮亚基洛斯”，以尽量保留原名的专有性和异域感，同时避免误译其具体含义；在缺乏明确语义背景时，音译通常是最稳妥的处理方式。","Others whisper that she has no place in my war councils, that I ought to send her back to Piakilos, that it is sinful to keep her in my tent of a night."
+Exp2,,Coined,Opaque,Original,"来自许多国度的船只都驶向皮亚基洛斯，因此我久久停留，研究远方民族的疗愈之道。
+
+地名“Piakilos”采用音译为“皮亚基洛斯”，保留其专有名词属性与异域感，同时避免误译为具有特定含义的普通词语。","Ships from many lands come to Piakilos, so I lingered long to study the healing ways of distant peoples."
+Exp2,,Coined,Opaque,Original,"很久以前，有个青涩的少年从塞多罗克斯来到这里，那是个肩膀宽阔的大男孩，顶着一头浓密的黑发。
+
+地名“ Sedorox ”我采用了音译“塞多罗克斯”，以保留其专有名词属性和异域感，同时尽量让中文读音自然顺口，便于读者识别为一个虚构或外来地名。","Once, long ago, a callow youth had come from Sedorox, a big broad-shouldered boy with a mop of dark hair."
+Exp2,,Coined,Opaque,Original,"他们穿过了塞多罗克斯起伏的丘陵，经过层层梯田和小村庄，镇民们焦虑地站在白色灰泥墙顶上注视着他们。
+
+地名“ Sedorox ”采用了音译处理，译为“塞多罗克斯”，以保留其专有名词的独特性和异域感，同时避免意译造成含义偏移。","They crossed the rolling hills of Sedorox, past terraced farms and small villages where the townsfolk watched anxiously from atop white stucco walls."
+Exp2,,Coined,Opaque,Original,"来自艾尔里托斯的使节在太阳西沉时抵达；五十名男子骑着威风凛凛的黑马，另有一人骑着一头巨大的白骆驼。
+
+地名“Aelritos”采用音译处理为“艾尔里托斯”，以尽量保留原名的读音和专有名词特征，同时符合中文读者的发音习惯。",The envoys from Aelritos arrived as the sun was going down; fifty men on magnificent black horses and one on a great white camel.
+Exp2,,Coined,Opaque,Original,"到第三天结束时，无论你们是否为我打开城门，我都会在艾尔里托斯。
+
+地名“Aelritos”采用了音译处理，保留其专有名词属性与异域感，同时尽量贴近原词的发音结构，避免意译造成地名含义失真。","By the end of the third day, I will be in Aelritos whether you open your gates for me or no."
+Exp2,,Coined,Opaque,Original,"等他们来到扎洛科时，她正坐在盐海岸边的河畔，人数已达一百六十三人。
+
+地名“Zaloko”采用音译为“扎洛科”，以保留专有名词的原有指称和异域感，同时符合中文读音习惯，避免意译造成地名含义不明或失真。","By the time they came to Zaloko sitting on the salt coast beside her river, the count stood at one hundred and sixty-three."
+Exp2,,Coined,Opaque,Original,"她还有一座城要攻取，沉溺于亲吻和某个雇佣兵那双明亮的蓝眼睛，并不会帮助她攻破扎洛科的城墙。
+
+地名“Zaloko”我译作“扎洛科”，采用音译以保留专有名词的异域感与识别性；同时不额外意译，是为了避免改变其作为虚构地名的中性属性。","She had a city to take, and dreaming of kisses and some sellsword’s bright blue eyes would not help her breach the walls of Zaloko."
+Exp2,,Coined,Opaque,Original,"他们把自己精良的盔甲连同金子和真名一起遗弃在了库雷阿瓦斯。
+
+地名“Kureavas”采用音译处理为“库雷阿瓦斯”，以保留其专有名词属性和异域感，同时避免擅自赋予中文语义；这样也更适合奇幻语境中的地名表达。","They had abandoned their own fine armor in Kureavas, along with their gold and their true names."
+Exp2,,Coined,Opaque,Original,"等他们到达库雷瓦斯时，西边的天空已呈紫色，东边则已漆黑，星星也开始显现出来。
+
+地名“Kureavas”采用音译处理，译为“库雷瓦斯”，以保留原有专名的读音和识别性；同时不强行意译，避免引入原文未明示的含义。","By the time they reached Kureavas, the sky was purple to the west and black to the east, and the stars were coming out."
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"经过数日跋涉，这群人抵达了临冬城，并在继续第二天的旅程之前，花了整个晚上寻找一个歇脚的地方。
+
+地名“Winterfell”采用了意译加专名化的处理，译为“临冬城”，既保留了其作为城镇/城堡名称的地名属性，也传达出原名中“冬天来临、寒冷逼近”的语义氛围。","After several days of travel, the group arrived at Winterfell and spent the evening looking for a place to rest before continuing their journey the next morning."
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"这位旅行者在白树短暂停留期间，拜访了当地人以收集信息，并记录了对该地区的观察。
+
+地名“Whitetree”采用了直译策略，译为“白树”，保留其字面含义和专有地名的识别性，同时符合中文读者的理解习惯。",The traveller visited Whitetree to gather information from local sources and record observations about the area during a short stay there.
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"商人们带着货物经过泉冠镇，并短暂停留交换补给，然后继续前往下一个目的地。
+
+地名“Queenscrown”采用了意译加音义结合的处理方式：将其译为“泉冠镇”，既保留了原名中“crown”的“冠”意象，也用“泉”来体现地名的自然感与中文地名习惯；同时加上“镇”使其更符合中文语境中的地名表达。",Merchants passed through Queenscrown while carrying goods and stopped briefly to exchange supplies before moving on toward their next destination.
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"研究人员前往海鸥镇考察可用材料，并花了几天时间审阅他们在实地工作中收集的笔记。
+
+地名“Gulltown”采用了意译处理：将“gull”译为“海鸥”，“town”译为“镇”，既保留了原名的语义特征，也符合中文地名的自然表达习惯。",The researchers travelled to Gulltown to examine available materials and spent several days reviewing notes collected during their field work.
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"游客在旅途中抵达了奔流城，并在短暂停留期间四处游览了周边环境，没有制定任何超出这次临时访问的长期计划。
+
+地名“Riverrun”采用了意译加音义兼顾的处理方式，译为“奔流城”，既保留了原名中“river/奔流”的意象，也通过“城”体现其作为地点名称的属性，使中文读者更容易理解并保持一定的文学感。",Visitors arrived at Riverrun during their journey and explored the surroundings without making any long-term plans beyond their temporary visit.
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"一群旅人曾在龙石岛附近停留了一段时间，为下一段行程做准备。
+
+地名“Dragonstone”采用了意译加专名化的方式，译为“龙石岛”，既保留了原名的意象，也符合中文地名习惯；“near”则译作“附近”，使句子自然流畅。",A group of travellers stayed near Dragonstone for a while as they prepared for the next stage of their route.
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"制图师在收到最近经过该地区的旅人提供的细节后，便在一份记录上标出了苦桥。
+
+地名“Bitterbridge”采用了直译加意译的方式处理为“苦桥”，既保留了原名的语义构成，也符合中文地名的自然表达习惯，便于读者理解和接受。",The mapmaker marked Bitterbridge on a record after receiving details from travellers who had recently passed through the area there.
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"访客经过长途跋涉抵达了阳矛城，并花了一些时间观察日常活动，之后才决定何时再次离开。
+
+地名“Sunspear”采用了意译处理，译为“阳矛城”，保留其字面意象与地名感，同时用“城”增强其作为地点名称的自然性。",The visitor reached Sunspear after a long journey and spent time observing daily activities before deciding when to leave again.
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"人们在旅行途中常常会在高庭停留，把这里当作一个歇脚、会见他人并在之后继续行程的地方。
+
+地名“Highgarden”采用了意译加音义兼顾的方式，译为“高庭”，既保留了原名中“High”和“garden”所传达的高处、庄园式空间感，也符合中文地名常见的简洁、庄重风格。","People often stopped at Highgarden during their travels, using the location as a place to pause, meet others, and continue their plans afterward."
+Exp3,,Existing,Transparent,Constructed by ChatGPT,"作者在收集了多位在旅途中到访过该地的旅行者的描述后，将海鸥镇写入了一份报告中。
+
+地名“Maidenpool”采用了意译处理，译为“海鸥镇”，以保留其作为地名的自然感和可读性；同时结合英文构词中“maiden”和“pool”的语义联想，尽量让中文读者直观理解并接受这一专名。",The writer included Maidenpool in a report after collecting descriptions from various travellers who had visited the location during their journeys.
+Exp3,,Existing,Transparent,Constructed by Gemini,"这段旅程漫长而疲惫，但旅行者们终于在黄昏前抵达了临冬城的郊外。他们在主路附近扎营，希望第二天早晨能补充些新鲜补给，然后继续向东前行。
+
+地名“Winterfell”采用了音义兼顾的译法，译为“临冬城”：既保留了专名的识别度，又通过“临冬”传达出其寒冷、逼近冬季的意象，“城”则点明其为城镇/城堡类地名，符合中文读者的理解习惯。","The journey had been long and exhausting, but the travelers finally reached the outskirts of Winterfell just before dusk. They set up camp near the main road, hoping to gather fresh supplies in the morning before continuing their journey eastward."
+Exp3,,Existing,Transparent,Constructed by Gemini,"当地商人们经常把他们的货物装进结实的货车里，为季节性的贸易路线做准备。他们大部分手工制品都打算运往白树镇，在那里他们希望赚到足够的利润，撑过接下来的几个月。
+
+地名“Whitetree”采用了意译加音义兼顾的处理方式，译为“白树镇”。这样既保留了原名的字面意象“white tree”，也通过“镇”补足了中文语境中对地点的自然表达，使其更像一个具体地名而非普通名词。","Local merchants regularly gathered their goods into sturdy wagons to prepare for the seasonal trade route. Most of their handcrafted wares were destined for Whitetree, where they expected to secure enough profit to last through the coming months."
+Exp3,,Existing,Transparent,Constructed by Gemini,"在档案中查阅旧记录时，这位学者偶然发现了几处提及一项在奎恩斯克朗签署的条约。尽管文件中缺少具体日期，但签名表明这是一项涉及地区边界的重要协议。
+
+地名“Queenscrown”采用音译处理为“奎恩斯克朗”，以尽量保留原名的专有性和辨识度，同时避免误译其含义；这种做法适用于缺乏明确中文惯用译名的虚构或不常见地名。","While reviewing the old records in the archives, the scholar stumbled upon several references to a treaty signed in Queenscrown. Although the document lacked specific dates, the signatures indicated it was a significant agreement concerning regional borders."
+Exp3,,Existing,Transparent,Constructed by Gemini,"为这群疲惫不堪的人来说，首要关切是找到一个安全的地方休息。他们决定，在谷地镇的一家客栈里安静地住上几天，能让每个人恢复体力，并修理受损的装备。
+
+地名 “Gulltown” 采用了意译处理，译为“谷地镇”，以保留其作为城镇名称的语义感和中文可读性，同时避免生硬的音译。",Finding a secure place to rest was the primary concern for the weary group. They decided that spending a few quiet days at an inn located in Gulltown would allow everyone to recover their strength and repair their damaged equipment.
+Exp3,,Existing,Transparent,Constructed by Gemini,"在一年一度的节庆时节，许多家庭长途跋涉去探望远方的亲戚。村里有相当一部分人收拾好行装，前往河溪镇，与多年未见的亲人团聚。
+
+地名“Riverrun”采用了意译处理，译为“河溪镇”，以保留其由“river”和“run”构成的自然地理联想，同时让中文读者更容易理解其作为地名的含义与氛围。","During the annual festival season, many families traveled great distances to visit their distant relatives. A significant number of the villagers packed their belongings and headed toward Riverrun to reunite with loved ones they had not seen for years."
+Exp3,,Existing,Transparent,Constructed by Gemini,"在决定是时候寻找一个新的安身之处后，这些家庭收拾起了他们的必需物品。他们聚集起剩余的资源，开始悄然迁往龙石岛，希望在那里获得更好的机会，迎来一个新的开始。
+
+地名“Dragonstone”采用了意译加音义兼顾的方式译为“龙石岛”：其中“Dragon”对应“龙”，“stone”对应“石”，并补上“岛”以符合地名语境和中文习惯，既保留原名意象，也让读者容易理解。","After deciding it was time to find a new place to settle, the families packed up their essential belongings. They gathered their remaining resources and began the quiet migration toward Dragonstone, hoping for better opportunities and a fresh start."
+Exp3,,Existing,Transparent,Constructed by Gemini,"信使将密封的信件牢牢地装进了系在马鞍上的防水袋里。最紧急的那封信是寄给一位目前住在苦桥的联络人的，因此要求骑手保持稳定而不懈的速度前进。
+
+地名“Bitterbridge”采用了意译，译为“苦桥”，以保留原名的语义色彩和地名感，同时让中文读者更容易理解其字面含义。","The courier secured the sealed letters tightly in the waterproof pouch attached to the saddle. The most urgent message was addressed to a contact currently residing in Bitterbridge, requiring the rider to maintain a steady and relentless pace."
+Exp3,,Existing,Transparent,Constructed by Gemini,"测量员们小心地调整仪器，以记录边界线上的新测量数据。他们在那张大羊皮地图上标注了更新后的坐标，确保通往阳戟城的准确距离被以绝对精确的方式记录下来，以供日后查阅。
+
+地名 “Sunspear” 采用了意译处理，译为“阳戟城”，以保留其作为专有地名的辨识度，同时传达英文原名中“sun”和“spear”所带来的意象感与奇幻风格。","The surveyors carefully adjusted their instruments to record the new measurements along the boundary line. They marked the updated coordinates on the large parchment map, ensuring the exact distance to Sunspear was documented with absolute precision for future reference."
+Exp3,,Existing,Transparent,Constructed by Gemini,"当地民兵接到命令，将他们常规巡逻路线进一步向外扩展。一支小分队被派去监视通往高庭的主路，检查过往的货车和旅人，以确保这条大道上的通行安全。
+
+地名“Highgarden”采用了意译处理，译为“高庭”，保留了原名的意象与专名感，同时符合中文地名常见的简洁、庄重风格。","The local militia received orders to expand their regular patrol routes further outward. A small detachment was assigned to monitor the main path leading to Highgarden, checking the passing wagons and travelers to ensure safe passage along the thoroughfare."
+Exp3,,Existing,Transparent,Constructed by Gemini,"知道他们已无法再安全地留在该地区，逃亡者们便在夜色掩护下悄然离去。他们的首要目标是抵达处女滩，同时不引起任何不必要的注意，也不留下可供他人追踪的踪迹。
+
+地名“Maidenpool”采用了音义兼顾的译法，译为“处女滩”：一方面保留了专名的辨识度，另一方面也尽量传达其字面意象，符合中文中对虚构地名常见的处理策略。","Knowing they could no longer remain safely in the area, the fugitives quietly slipped away under the cover of darkness. Their primary objective was to reach Maidenpool without attracting any unwanted attention or leaving a trail for anyone to follow."
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"经过数日跋涉，这一行人抵达了潘托斯，并在继续第二天的旅程之前，花了整个夜晚寻找歇脚的地方。
+
+地名“Pentos”采用音译为“潘托斯”，因为它是专有地名，通常以保留原有读音为主，便于识别和保持作品中的设定一致性。","After several days of travel, the group arrived at Pentos and spent the evening looking for a place to rest before continuing their journey the next morning."
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"这位旅行者前往布拉佛斯，从当地来源收集信息，并在短暂停留期间记录了对该地区的观察。
+
+地名“Braavos”采用音译为“布拉佛斯”，以保留专有名词的识别性和原有指称；同时不额外意译，避免改变其作为虚构地名或专名的性质。",The traveller visited Braavos to gather information from local sources and record observations about the area during a short stay there.
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"商人们经过渊凯时携带着货物，并短暂停留交换补给，然后继续前往下一个目的地。
+
+地名“Astapor”我译作“渊凯”，采用音译并兼顾中文读者的可读性与奇幻语境中的专名习惯；这样既保留专有名词属性，也便于在中文中自然呈现。",Merchants passed through Astapor while carrying goods and stopped briefly to exchange supplies before moving on toward their next destination.
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"研究人员前往米尔考察可用材料，并花了几天时间审阅他们在实地工作中收集的笔记。
+
+地名“Myr”采用音译为“米尔”，因为这是一个专有地名，通常优先保留其原有读音，以便在中文中保持识别性和一致性。",The researchers travelled to Myr to examine available materials and spent several days reviewing notes collected during their field work.
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"游客在旅途中抵达了夸特，并在短暂停留期间游览了周边地区，没有为长期逗留做任何计划。  
+地名“Qarth”采用音译为“夸特”，以保留专有名词的独特性和异域感，同时避免意译造成含义偏移。",Visitors arrived at Qarth during their journey and explored the surroundings without making any long-term plans beyond their temporary visit.
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"一群旅人曾在亚夏附近停留了一段时间，为下一段行程做准备。
+
+地名“Asshai”采用音译为“亚夏”，以保留专有名词的独特性和异域感，同时符合中文读者的发音习惯。",A group of travellers stayed near Asshai for a while as they prepared for the next stage of their route.
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"制图师在收到最近经过该地区的旅行者提供的细节后，便在一份记录上标出了诺沃斯。
+
+地名“Norvos”采用音译为“诺沃斯”，以保留专有名词的识别性和原有地名色彩，同时符合中文读音习惯。",The mapmaker marked Norvos on a record after receiving details from travellers who had recently passed through the area there.
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"访客经过长途跋涉抵达渊凯，在决定何时再次启程之前，花了一段时间观察日常活动。
+
+地名“Yunkai”译为“渊凯”，采用音译为主的方式，以尽量保留专有地名的原有读音和识别度，同时使其符合中文书写习惯。",The visitor reached Yunkai after a long journey and spent time observing daily activities before deciding when to leave again.
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"人们在旅行途中常常会在弥林停留，把这里当作一个歇脚、会见他人并在之后继续行程的地方。
+
+地名“Meereen”采用音译为“弥林”，以保留专有名词的识别性和原作中的异域感，同时符合中文读者对该地名的常见音译习惯。","People often stopped at Meereen during their travels, using the location as a place to pause, meet others, and continue their plans afterward."
+Exp3,,Existing,Opaque,Constructed by ChatGPT,"作者在收集了多位旅途中曾到访该地的旅行者的描述后，将瓦兰提斯写入了一份报告中。
+
+地名“Volantis”采用了音译“瓦兰提斯”，以保留专有名词的识别性和异域感，同时避免误译为普通词汇；在中文语境中，这种处理也更符合虚构地名或专名的常见译法。",The writer included Volantis in a report after collecting descriptions from various travellers who had visited the location during their journeys.
+Exp3,,Existing,Opaque,Constructed by Gemini,"这段旅程漫长而疲惫，但旅行者们终于在黄昏前抵达了潘托斯城郊。他们在主路附近扎营，希望第二天早晨能补充些新鲜补给，然后继续向东前行。
+
+地名“Pentos”采用音译为“潘托斯”，以保留其专有名词属性和奇幻世界中的独特感，同时避免意译造成的地理与文化信息偏移。","The journey had been long and exhausting, but the travelers finally reached the outskirts of Pentos just before dusk. They set up camp near the main road, hoping to gather fresh supplies in the morning before continuing their journey eastward."
+Exp3,,Existing,Opaque,Constructed by Gemini,"当地商人们经常把货物装进结实的货车里，准备踏上季节性的贸易路线。他们大部分手工制品都打算运往布拉佛斯，在那里他们希望赚到足够的利润，撑过接下来的几个月。
+
+地名“Braavos”采用音译为“布拉佛斯”，以保留专有名词的识别性和原有异域感，同时符合中文读者的阅读习惯。","Local merchants regularly gathered their goods into sturdy wagons to prepare for the seasonal trade route. Most of their handcrafted wares were destined for Braavos, where they expected to secure enough profit to last through the coming months."
+Exp3,,Existing,Opaque,Constructed by Gemini,"在查阅档案中的旧记录时，这位学者偶然发现了几处提及在阿斯塔波签署的一项条约。尽管该文件缺少具体日期，但签名表明这是一项涉及地区边界的重要协议。
+
+地名“Astapor”采用音译为“阿斯塔波”，以尽量保留原名的读音和专有名词属性，同时避免误译为具有特定含义的中文词语。","While reviewing the old records in the archives, the scholar stumbled upon several references to a treaty signed in Astapor. Although the document lacked specific dates, the signatures indicated it was a significant agreement concerning regional borders."
+Exp3,,Existing,Opaque,Constructed by Gemini,"为这支疲惫的队伍寻找一个安全的休息之处是首要关切。他们决定，在米尔的一家旅店里安静地住上几天，能让每个人恢复体力，并修理受损的装备。
+
+地名 “Myr” 采用音译为“米尔”，以保留专有名词的识别性和原文风格，同时避免意译造成地名含义不明确或失真。",Finding a secure place to rest was the primary concern for the weary group. They decided that spending a few quiet days at an inn located in Myr would allow everyone to recover their strength and repair their damaged equipment.
+Exp3,,Existing,Opaque,Constructed by Gemini,"在一年一度的节庆时节，许多家庭长途跋涉去探望远方的亲戚。村民中有相当一部分人收拾好行装，前往渊凯与多年未见的亲人团聚。
+
+地名“Qarth”采用了音译处理，译为“渊凯”，以保留专有名词的异域感和识别度，同时符合中文读者对虚构地名的阅读习惯。","During the annual festival season, many families traveled great distances to visit their distant relatives. A significant number of the villagers packed their belongings and headed toward Qarth to reunite with loved ones they had not seen for years."
+Exp3,,Existing,Opaque,Constructed by Gemini,"在决定是时候寻找新的安身之处后，这些家庭收拾起了他们最重要的随身物品。他们聚拢起剩余的资源，开始悄然迁往亚夏，希望能获得更好的机会，迎来一个新的开始。
+
+地名“Asshai”采用音译为“亚夏”，以保留其专有名词属性和异域感，同时符合中文读者对虚构地名的自然接受方式。","After deciding it was time to find a new place to settle, the families packed up their essential belongings. They gathered their remaining resources and began the quiet migration toward Asshai, hoping for better opportunities and a fresh start."
+Exp3,,Existing,Opaque,Constructed by Gemini,"信使将密封的信件牢牢地装进了系在马鞍上的防水袋里。最紧急的那封信是寄给一位目前居住在诺佛斯的联络人的，因此要求骑手保持稳定而不懈的速度前进。
+
+地名“Norvos”采用音译为“诺佛斯”，以保留专有名词的识别性和异域感，同时避免意译造成歧义。","The courier secured the sealed letters tightly in the waterproof pouch attached to the saddle. The most urgent message was addressed to a contact currently residing in Norvos, requiring the rider to maintain a steady and relentless pace."
+Exp3,,Existing,Opaque,Constructed by Gemini,"测量员们仔细调整仪器，以记录边界线上的新测量数据。他们在那张大羊皮地图上标注了更新后的坐标，确保到云开的准确距离以绝对精度被记录下来，供日后查考。
+
+地名“Yunkai”采用音译加意译的方式处理为“云开”，既保留了原名的读音感，也使中文读者更容易自然接受；同时避免生硬直译造成歧义。","The surveyors carefully adjusted their instruments to record the new measurements along the boundary line. They marked the updated coordinates on the large parchment map, ensuring the exact distance to Yunkai was documented with absolute precision for future reference."
+Exp3,,Existing,Opaque,Constructed by Gemini,"当地民兵接到命令，将他们的常规巡逻路线进一步向外扩展。一支小分队被派去监视通往弥林的主要道路，检查过往的货车和旅人，以确保这条大道上的通行安全。
+
+地名“Meereen”采用音译为“弥林”，这样既保留了专有名词的异域感，也符合中文读者对虚构地名的接受习惯；同时避免意译造成含义偏差。","The local militia received orders to expand their regular patrol routes further outward. A small detachment was assigned to monitor the main path leading to Meereen, checking the passing wagons and travelers to ensure safe passage along the thoroughfare."
+Exp3,,Existing,Opaque,Constructed by Gemini,"意识到他们已无法继续安全地留在该地区，逃亡者们便在夜色掩护下悄然离去。他们的首要目标是抵达瓦兰提斯，同时不引起任何不必要的注意，也不留下可供他人追踪的踪迹。
+
+地名“Volantis”采用音译为“瓦兰提斯”，以保留专有名词的识别性和异域感；同时它是虚构/专名地名，音译比意译更能准确对应原名并避免歧义。","Knowing they could no longer remain safely in the area, the fugitives quietly slipped away under the cover of darkness. Their primary objective was to reach Volantis without attracting any unwanted attention or leaving a trail for anyone to follow."
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"经过几天的旅程，这群人抵达了博阿尔奇，并在继续第二天早晨的行程之前，花了整个晚上寻找一个可以休息的地方。
+
+地名“Boararch”采用音译处理为“博阿尔奇”，以尽量保留原名的读音和专有名词属性，同时避免擅自赋予其未明确的中文含义。","After several days of travel, the group arrived at Boararch and spent the evening looking for a place to rest before continuing their journey the next morning."
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"这位旅行者访问了猴喙，以便从当地来源收集信息，并在短暂停留期间记录对该地区的观察。
+
+地名“Monkeybeak”采用了直译加意译的方式处理：将“Monkey”译为“猴”，“beak”译为“喙”，保留了原名的字面意象，同时使中文读者能够自然理解其构词含义。",The traveller visited Monkeybeak to gather information from local sources and record observations about the area during a short stay there.
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"商人们带着货物经过月沉镇，并短暂停留交换补给，然后继续前往下一个目的地。
+
+地名“Moonsunk”我译为“月沉镇”，采用了意译加地名后缀的方式：先保留“moon”的“月”意象，再用“沉”对应“sunk”的下沉、没入之感，同时加上“镇”让它更像一个具体地点，符合中文地名的自然表达。",Merchants passed through Moonsunk while carrying goods and stopped briefly to exchange supplies before moving on toward their next destination.
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"研究人员前往弗洛德米斯特，考察可获得的材料，并花了几天时间审阅他们在实地工作中收集的笔记。
+
+地名“Floodmist”采用音译处理为“弗洛德米斯特”，以保留专有名词的识别性和原有指称功能，同时避免意译可能带来的含义偏移；这种做法适合未有固定中文译名的地名。",The researchers travelled to Floodmist to examine available materials and spent several days reviewing notes collected during their field work.
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"游客在旅途中抵达了星罗，并在短暂停留期间四处探索周边环境，没有制定超出这次临时访问的长期计划。  
+
+地名“Starroll”采用了音意兼顾的处理方式，译为“星罗”：既保留了英文原名的音感，又借“星罗”传达出星辰罗布、分布开阔的联想，适合作为地名使用。",Visitors arrived at Starroll during their journey and explored the surroundings without making any long-term plans beyond their temporary visit.
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"一群旅人曾在Winefleet附近停留了一段时间，为下一段行程做准备。
+
+地名“Winefleet”保留原文不译，因为它看起来是专有地名，直接音译或意译都可能失真；在缺乏明确对应中文译名的情况下，保留原名最稳妥。",A group of travellers stayed near Winefleet for a while as they prepared for the next stage of their route.
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"制图师在收到最近经过该地区的旅行者提供的详细信息后，将 Conquerbay 标注在了一份记录上。
+
+地名 “Conquerbay” 采用了音译加保留原名的方式处理，因为它看起来像一个专有地名，且缺乏足够语境来确定其是否有明确可译的语义成分；这样既能保持专名识别，也避免误译。",The mapmaker marked Conquerbay on a record after receiving details from travellers who had recently passed through the area there.
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"这位访客经过长途跋涉抵达了西德港，并花时间观察日常活动，之后才决定何时再次离开。  
+
+地名“Ciderport”采用了音译加意译的方式处理为“西德港”：保留了专名的可识别性，同时用“港”传达其作为地名的语义特征。",The visitor reached Ciderport after a long journey and spent time observing daily activities before deciding when to leave again.
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"人们在旅途中常常会在镜悬停留，把这里当作一个歇脚、会面并在之后继续行程的地方。
+
+地名“Mirrorhang”采用了意译加音义结合的处理思路：其中“Mirror”译为“镜”，保留其字面意象；“hang”则译作“悬”，以贴近原名的构词感觉和画面感，同时让中文读者能自然理解为一个地名。","People often stopped at Mirrorhang during their travels, using the location as a place to pause, meet others, and continue their plans afterward."
+Exp4,,Coined,Transparent,Constructed by ChatGPT,"作者在收集了多位在旅途中到访过该地点的旅行者的描述后，将“剑荆”写入了一份报告中。
+
+我将 “Swordthorn” 译为“剑荆”，采用了意译加音义联想的策略：其中 “sword” 对应“剑”，“thorn” 对应“荆”，既保留了地名的意象，也使中文读者更容易理解其字面含义。",The writer included Swordthorn in a report after collecting descriptions from various travellers who had visited the location during their journeys.
+Exp4,,Coined,Transparent,Constructed by Gemini,"这段旅程漫长而疲惫，但旅行者们终于在黄昏前抵达了博阿拉奇的郊外。他们在主路附近扎营，希望第二天早晨能补充些新鲜补给，然后继续向东前行。
+
+地名“Boararch”采用音译处理为“博阿拉奇”，以尽量保留原名的读音和专有名词特征；同时不强行意译，避免改变其作为虚构或特定地名的识别性。","The journey had been long and exhausting, but the travelers finally reached the outskirts of Boararch just before dusk. They set up camp near the main road, hoping to gather fresh supplies in the morning before continuing their journey eastward."
+Exp4,,Coined,Transparent,Constructed by Gemini,"当地商人们经常把货物装进结实的货车里，为季节性的贸易路线做准备。他们大部分手工制品都打算运往猴喙镇，在那里他们希望赚到足够的利润，撑过接下来的几个月。
+
+地名“Monkeybeak”采用了直译加地名化处理，译为“猴喙镇”，既保留了原名的字面意象，又让中文读者更容易将其识别为一个地点名称。","Local merchants regularly gathered their goods into sturdy wagons to prepare for the seasonal trade route. Most of their handcrafted wares were destined for Monkeybeak, where they expected to secure enough profit to last through the coming months."
+Exp4,,Coined,Transparent,Constructed by Gemini,"在档案馆查阅旧档案时，这位学者偶然发现了几处提及一项在“月沉”签署的条约。尽管文件中没有具体日期，但签名表明这是一项涉及地区边界的重要协议。
+
+地名“Moonsunk”采用了意译处理，译为“月沉”，以保留其字面意象和文学感，同时避免生硬的音译；这样更符合中文语境中地名的可读性与整体风格。","While reviewing the old records in the archives, the scholar stumbled upon several references to a treaty signed in Moonsunk. Although the document lacked specific dates, the signatures indicated it was a significant agreement concerning regional borders."
+Exp4,,Coined,Transparent,Constructed by Gemini,"为这支疲惫不堪的队伍寻找一个安全的歇脚之处是首要关切。他们决定，在名为“Floodmist”的城镇里的一家旅店安静地住上几天，能让每个人恢复体力，并修理受损的装备。
+
+地名“Floodmist”我保留为英文原名并加上引号，是因为它看起来像一个专有地名，直接音译或意译都可能削弱其设定感；保留原名既能避免误译，也便于读者识别这是一个特定地点。",Finding a secure place to rest was the primary concern for the weary group. They decided that spending a few quiet days at an inn located in Floodmist would allow everyone to recover their strength and repair their damaged equipment.
+Exp4,,Coined,Transparent,Constructed by Gemini,"在一年一度的节庆时节，许多家庭长途跋涉去探望远方的亲戚。村里有相当一部分人收拾好行装，前往星罗尔，与多年未见的亲人团聚。
+
+地名“Starroll”采用音译处理为“星罗尔”，以保留专有名词的识别性和原有发音特征，同时使其符合中文读者的阅读习惯。","During the annual festival season, many families traveled great distances to visit their distant relatives. A significant number of the villagers packed their belongings and headed toward Starroll to reunite with loved ones they had not seen for years."
+Exp4,,Coined,Transparent,Constructed by Gemini,"在决定是时候寻找一个新的安身之处后，这些家庭收拾好了他们的必需物品。他们汇集了剩余的资源，开始悄然迁往 Winefleet，希望在那里获得更好的机会和一个新的开始。
+
+地名 “Winefleet” 我保留为原文不译，因为它看起来像专有地名，直接音译或意译都可能削弱其识别性；保留原名能更准确地传达这是一个具体地点。","After deciding it was time to find a new place to settle, the families packed up their essential belongings. They gathered their remaining resources and began the quiet migration toward Winefleet, hoping for better opportunities and a fresh start."
+Exp4,,Coined,Transparent,Constructed by Gemini,"信使将密封的信件牢牢地装进了系在马鞍上的防水袋里。最紧急的那封信是寄给一位目前住在征服湾的联络人的，因此要求骑手保持稳定而不懈的速度前进。
+
+地名“Conquerbay”采用了意译加音义结合的处理方式：其中“Conquer”译作“征服”，“bay”译作“湾”，既保留了原名的语义色彩，也让中文读者更容易理解其地名属性。","The courier secured the sealed letters tightly in the waterproof pouch attached to the saddle. The most urgent message was addressed to a contact currently residing in Conquerbay, requiring the rider to maintain a steady and relentless pace."
+Exp4,,Coined,Transparent,Constructed by Gemini,"测量员们小心地调整仪器，以记录边界线上的新测量数据。他们在那张大羊皮地图上标出了更新后的坐标，确保到赛德波特的准确距离被以绝对精确的方式记录下来，以供日后查阅。
+
+地名“Ciderport”采用了音译加意译的思路，译为“赛德波特”，尽量保留原名的读音特征，同时让中文读者能够自然识别为地名。","The surveyors carefully adjusted their instruments to record the new measurements along the boundary line. They marked the updated coordinates on the large parchment map, ensuring the exact distance to Ciderport was documented with absolute precision for future reference."
+Exp4,,Coined,Transparent,Constructed by Gemini,"当地民兵接到命令，将他们常规巡逻路线进一步向外扩展。一支小分队被派去监视通往镜悬镇的主路，检查过往的货车和旅人，以确保这条大道上的通行安全。
+
+地名“Mirrorhang”采用了意译加音译结合的处理思路：其中“Mirror”译为“镜”，保留其字面意象；“hang”则根据整体语感处理为“悬”，使地名在中文里既自然又带有一定的地名风格，同时尽量保持原名的奇幻感与辨识度。","The local militia received orders to expand their regular patrol routes further outward. A small detachment was assigned to monitor the main path leading to Mirrorhang, checking the passing wagons and travelers to ensure safe passage along the thoroughfare."
+Exp4,,Coined,Transparent,Constructed by Gemini,"意识到他们已无法继续安全地留在该地区，这些逃亡者便在夜色掩护下悄然离去。他们的首要目标是抵达“剑荆镇”，同时不引起任何不必要的注意，也不留下可供他人追踪的踪迹。
+
+地名 “Swordthorn” 我采用了意译加音义兼顾的方式处理为“剑荆镇”：其中 “Sword” 对应“剑”，“thorn” 对应“荆”，既保留了原名的意象，也让中文读者更容易理解其含义；同时加上“镇”是为了让它在中文里更像一个地名。","Knowing they could no longer remain safely in the area, the fugitives quietly slipped away under the cover of darkness. Their primary objective was to reach Swordthorn without attracting any unwanted attention or leaving a trail for anyone to follow."
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"经过数日跋涉，这群人抵达了伊斯普利尼亚，并在继续次日清晨的旅程之前，花了整个傍晚寻找歇脚的地方。
+
+地名“Isplynia”采用音译处理，译为“伊斯普利尼亚”，以尽量保留原名的读音和专有名词特征；同时不强行意译，避免改变其作为虚构或特定地名的识别性。","After several days of travel, the group arrived at Isplynia and spent the evening looking for a place to rest before continuing their journey the next morning."
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"这位旅行者前往托斯派特，向当地来源收集信息，并在短暂停留期间记录了对该地区的观察。
+
+地名“ Tospyte ”我采用了音译“托斯派特”，以保留其专有名词属性和原有地名特征，同时避免擅自赋予其含义；这种处理在缺乏明确对应中文译名时最稳妥。",The traveller visited Tospyte to gather information from local sources and record observations about the area during a short stay there.
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"商人们带着货物经过里斯托西亚，并短暂停留交换补给，然后继续前往下一个目的地。
+
+地名“Rystosia”采用了音译“里斯托西亚”，以保留专有名词的原有读音和异域感，同时避免误译为具有特定含义的中文词语。",Merchants passed through Rystosia while carrying goods and stopped briefly to exchange supplies before moving on toward their next destination.
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"研究人员前往基雷米，考察可获得的材料，并花了几天时间查阅他们在田野工作中收集的笔记。  
+
+地名“Kyremi”采用音译处理为“基雷米”，以尽量保留原名的读音和专有名词属性，同时避免误译为具有特定含义的中文词语。",The researchers travelled to Kyremi to examine available materials and spent several days reviewing notes collected during their field work.
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"游客在旅途中抵达斯里凯姆，并在短暂停留期间探索了周围环境，没有为这次临时访问之外的长期计划做打算。  
+
+地名“ Srikyme ”采用音译处理，尽量保留其原有读音与专名属性，同时不强行赋予中文含义，以避免误译。",Visitors arrived at Srikyme during their journey and explored the surroundings without making any long-term plans beyond their temporary visit.
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"一群旅人曾在皮亚基洛斯附近停留了一段时间，为下一段行程做准备。
+
+地名“Piakilos”采用音译处理，尽量保留其原有读音与专名属性，不强行意译，以避免改变地名本身的指代。",A group of travellers stayed near Piakilos for a while as they prepared for the next stage of their route.
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"制图师在收到最近经过该地区的旅行者提供的详细信息后，便在一份记录上标注了塞多罗克斯。
+
+地名“ Sedorox ”采用了音译处理，译为“塞多罗克斯”，以尽量保留原名的读音和专有名词属性，同时避免擅自赋予其额外含义。",The mapmaker marked Sedorox on a record after receiving details from travellers who had recently passed through the area there.
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"访客经过长途跋涉抵达了艾尔里托斯，并花时间观察日常活动，随后才决定何时再次离开。
+
+地名“Aelritos”采用了音译处理，尽量保留原名的读音与专有名词属性，同时使其符合中文的音节和书写习惯。",The visitor reached Aelritos after a long journey and spent time observing daily activities before deciding when to leave again.
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"人们在旅行途中常常会在扎洛科停留，把这里当作一个歇脚、会见他人并在之后继续行程的地方。
+
+地名“Zaloko”采用音译为“扎洛科”，以保留原有专名的识别性和地理指向；同时不强行意译，避免改变其作为地名的专有属性。","People often stopped at Zaloko during their travels, using the location as a place to pause, meet others, and continue their plans afterward."
+Exp4,,Coined,Opaque,Constructed by ChatGPT,"作者在收集了多位在旅途中到访过该地的旅行者的描述后，将库雷瓦斯写入了一份报告中。  
+
+地名“ Kureavas ”采用音译为“库雷瓦斯”，以尽量保留其原有读音和专名属性，同时避免误译为具有特定含义的普通词。",The writer included Kureavas in a report after collecting descriptions from various travellers who had visited the location during their journeys.
+Exp4,,Coined,Opaque,Constructed by Gemini,"这段旅程漫长而疲惫，但旅行者们终于在黄昏前抵达了伊斯普利尼亚的郊外。他们在主路附近扎营，希望第二天早晨补充新鲜补给后，再继续向东前行。
+
+地名“Isplynia”采用音译处理为“伊斯普利尼亚”，以尽量保留原名的读音和专有名词属性，同时避免意译造成地名含义偏移。","The journey had been long and exhausting, but the travelers finally reached the outskirts of Isplynia just before dusk. They set up camp near the main road, hoping to gather fresh supplies in the morning before continuing their journey eastward."
+Exp4,,Coined,Opaque,Constructed by Gemini,"当地商人们经常把他们的货物装进结实的货车里，为季节性的贸易路线做准备。他们大部分手工制品都打算运往托斯派特，在那里他们希望赚到足够的利润，撑过接下来的几个月。
+
+地名“Tospyte”采用了音译处理，译为“托斯派特”，以尽量保留原名的读音和专有名词属性，同时避免擅自赋予其含义。","Local merchants regularly gathered their goods into sturdy wagons to prepare for the seasonal trade route. Most of their handcrafted wares were destined for Tospyte, where they expected to secure enough profit to last through the coming months."
+Exp4,,Coined,Opaque,Constructed by Gemini,"在档案馆查阅旧档案时，这位学者偶然发现了几处提及在里斯托西亚签署的一项条约的记载。尽管文件中没有具体日期，但签名表明这是一项涉及地区边界的重要协议。
+
+地名“Rystosia”采用音译处理为“里斯托西亚”，以尽量保留原名的读音和专有名词特征，同时避免擅自赋予其中文语义。","While reviewing the old records in the archives, the scholar stumbled upon several references to a treaty signed in Rystosia. Although the document lacked specific dates, the signatures indicated it was a significant agreement concerning regional borders."
+Exp4,,Coined,Opaque,Constructed by Gemini,"为这支疲惫的队伍寻找一个安全的歇脚之处是首要关切。他们决定，在位于基雷米的一家旅店里安静地住上几天，能让每个人恢复体力，并修理受损的装备。
+
+地名“Kyremi”采用音译为“基雷米”，以保留其专有名词属性和原有读音，同时避免误译为具有特定含义的中文词。",Finding a secure place to rest was the primary concern for the weary group. They decided that spending a few quiet days at an inn located in Kyremi would allow everyone to recover their strength and repair their damaged equipment.
+Exp4,,Coined,Opaque,Constructed by Gemini,"在一年一度的节庆时节，许多家庭长途跋涉去探望远方的亲戚。村里有相当一部分人收拾好行李，前往斯里凯姆，与多年未见的亲人团聚。
+
+地名“Srikyme”采用了音译处理，译为“斯里凯姆”，以尽量保留原名的读音和专有名词属性；这样既避免误译其含义，也便于中文读者识别为一个地名。","During the annual festival season, many families traveled great distances to visit their distant relatives. A significant number of the villagers packed their belongings and headed toward Srikyme to reunite with loved ones they had not seen for years."
+Exp4,,Coined,Opaque,Constructed by Gemini,"在决定是时候寻找一个新的安身之处后，这些家庭收拾好了他们的必需物品。他们汇集了剩余的资源，开始悄然迁往皮亚基洛斯，希望在那里获得更好的机会，重新开始。
+
+地名“Piakilos”采用音译为“皮亚基洛斯”，以保留其专有名词属性和原有发音特征，同时避免擅自赋予其中文含义。","After deciding it was time to find a new place to settle, the families packed up their essential belongings. They gathered their remaining resources and began the quiet migration toward Piakilos, hoping for better opportunities and a fresh start."
+Exp4,,Coined,Opaque,Constructed by Gemini,"信使将密封的信件牢牢地装进了系在马鞍上的防水袋里。最紧急的那封信是寄给一位目前居住在塞多罗克斯的联络人的，因此要求骑手保持稳定而不懈的速度前进。
+
+地名“Sedorox”采用了音译处理，译为“塞多罗克斯”，以尽量保留原名的读音和专有名词属性，同时避免擅自赋予其额外含义。","The courier secured the sealed letters tightly in the waterproof pouch attached to the saddle. The most urgent message was addressed to a contact currently residing in Sedorox, requiring the rider to maintain a steady and relentless pace."
+Exp4,,Coined,Opaque,Constructed by Gemini,"测量员们仔细调整了他们的仪器，以记录边界线上的新测量数据。他们在那张大羊皮地图上标出了更新后的坐标，确保与艾尔里托斯的准确距离被以绝对精确的方式记录下来，以供日后参考。
+
+地名“Aelritos”采用了音译处理，译为“艾尔里托斯”，以尽量保留原名的读音和专有名词属性，同时避免意译造成的含义偏移。","The surveyors carefully adjusted their instruments to record the new measurements along the boundary line. They marked the updated coordinates on the large parchment map, ensuring the exact distance to Aelritos was documented with absolute precision for future reference."
+Exp4,,Coined,Opaque,Constructed by Gemini,"当地民兵接到命令，将他们常规巡逻路线进一步向外扩展。一支小分队被派去监视通往扎洛科的主要道路，检查过往的货车和旅人，以确保这条大道上的通行安全。
+
+地名“Zaloko”采用音译为“扎洛科”，因为它看起来是专有地名，通常应保留原有读音特征，避免意译造成信息丢失。","The local militia received orders to expand their regular patrol routes further outward. A small detachment was assigned to monitor the main path leading to Zaloko, checking the passing wagons and travelers to ensure safe passage along the thoroughfare."
+Exp4,,Coined,Opaque,Constructed by Gemini,"意识到他们已无法再安全地留在该地区，逃亡者们便在夜色掩护下悄然离去。他们的首要目标是抵达库雷瓦斯，同时不引起任何不必要的注意，也不留下可供他人追踪的踪迹。
+
+地名“Kureavas”采用音译为“库雷瓦斯”，以尽量保留原名的读音和专有名词属性；同时不额外添加意译成分，避免改变其作为地点名称的中性指代。","Knowing they could no longer remain safely in the area, the fugitives quietly slipped away under the cover of darkness. Their primary objective was to reach Kureavas without attracting any unwanted attention or leaving a trail for anyone to follow."

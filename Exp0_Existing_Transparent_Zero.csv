@@ -1,0 +1,34 @@
+﻿Experiment,Toponym,Lexical Status,Transparency,Context,Output
+Exp0,Winterfell,Existing,Transparent,Zero,"冬堡
+
+Rationale: I translated “Winter” as “冬” to preserve the seasonal meaning, and “fell” as “堡” to evoke a fortified stronghold or castle-like place. The strategy was to create a concise, natural-sounding Chinese toponym that keeps the original sense and atmosphere rather than transliterating the name."
+Exp0,Whitetree,Existing,Transparent,Zero,"白树
+
+我将其直译为“白树”，保留了原名的字面构成与地名感，采用常见、自然的汉语表达方式。"
+Exp0,Queenscrown,Existing,Transparent,Zero,"女王冠
+
+Rationale: I translated “Queen” as “女王” and “crown” as “冠,” preserving the original compound meaning while keeping it concise and place-name-like in Chinese."
+Exp0,Gulltown,Existing,Transparent,Zero,"海鸥镇
+
+我将 “Gull” 译为“海鸥”，保留其鸟类意象；“town” 译为“镇”，以自然、常见的中文地名后缀来呈现这是一个城镇型地名。"
+Exp0,Riverrun,Existing,Transparent,Zero,"溪流城
+
+Rationale: I translated “River” as “溪流” to preserve the sense of a flowing waterway, and “run” as “城” to make it read naturally as a place name in Chinese. The result aims to sound like a plausible toponym rather than a literal word-for-word rendering."
+Exp0,Dragonstone,Existing,Transparent,Zero,"龙石岛
+
+Rationale: I translated “Dragon” as “龙” and “stone” as “石,” then added “岛” to reflect a place-name feel in Chinese and make it sound like a geographic toponym rather than a literal object."
+Exp0,Bitterbridge,Existing,Transparent,Zero,"苦桥
+
+Rationale: I translated “Bitter” as “苦” to preserve the harsh, unpleasant connotation, and “bridge” as “桥” for a direct, natural Chinese rendering. The strategy is a straightforward semantic translation that keeps the place name clear and evocative."
+Exp0,Sunspear,Existing,Transparent,Zero,"日矛城
+
+Rationale: I translated “Sun” as “日” and “spear” as “矛,” then added “城” to make it read naturally as a place name in Chinese. This keeps the original imagery while giving it a toponymic feel."
+Exp0,Highgarden,Existing,Transparent,Zero,"高庭
+
+我将其译为“高庭”，采用直译加意象保留的策略：  
+- “High”对应“高”，保留地名中的高度、尊贵感。  
+- “garden”在此更像是庄园、园地或城堡式园林意象，译作“庭”能兼顾“庭院/府邸/园庭”的古典地名风格。  
+整体上简洁、庄重，也符合中文地名常见的两字结构。"
+Exp0,Maidenpool,Existing,Transparent,Zero,"处女池
+
+Rationale: I translated “Maiden” as “处女,” which preserves the literal sense of an unmarried young woman, and “pool” as “池,” a natural Chinese equivalent for a pool or small body of water. This keeps the name concise, readable, and faithful to the original imagery."

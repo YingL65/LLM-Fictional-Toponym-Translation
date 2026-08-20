@@ -1,0 +1,31 @@
+﻿Experiment,Toponym,Lexical Status,Transparency,Context,Output
+Exp0,Pentos,Existing,Opaque,Zero,"潘托斯
+
+我采用了音译策略，将 “Pentos” 按其英文读音近似转写为“潘托斯”。这样既保留了专名的异域感，也符合中文对虚构地名常见的音译习惯。"
+Exp0,Braavos,Existing,Opaque,Zero,"布拉沃斯
+
+我采用了音译策略，将 “Braavos” 的发音尽量转写为中文，同时保持其作为专有地名的异域感与辨识度。"
+Exp0,Astapor,Existing,Opaque,Zero,"阿斯塔波
+
+译法说明：采用音译为主，尽量保留原名的读音与异域感；“Astapor”可拆作近似音节“阿-斯-塔-波”，用常见汉字组合成自然的中文专名。"
+Exp0,Myr,Existing,Opaque,Zero,"米尔
+
+Rationale: I transliterated “Myr” into Chinese using a close phonetic rendering. “米尔” preserves the approximate pronunciation while using common, natural Chinese characters for a place name."
+Exp0,Qarth,Existing,Opaque,Zero,"卡斯
+
+Rationale: I chose a phonetic transliteration that preserves the short, sharp sound of “Qarth” while fitting natural Chinese syllable patterns. “卡斯” is concise, easy to read, and works well as a place name without adding extra meaning."
+Exp0,Asshai,Existing,Opaque,Zero,"阿夏伊
+
+Rationale: I transliterated the name to preserve its foreign, fictional feel while keeping it natural in Chinese. “阿” helps create a smooth phonetic start, and “夏伊” approximates the original sound of “-shai” without forcing an existing meaning onto the toponym."
+Exp0,Norvos,Existing,Opaque,Zero,"诺沃斯
+
+我采用了音译策略，将 “Norvos” 按其英文发音近似转写为“诺沃斯”。这样既保留了原名的异域感，也符合中文地名常见的音译习惯。"
+Exp0,Yunkai,Existing,Opaque,Zero,"云开
+
+Rationale: I rendered “Yunkai” phonetically and semantically as “云开,” which preserves the sound of “Yun” while giving “kai” a natural Chinese character with a positive, place-name-like meaning (“clouds part/open”). This makes it feel like a plausible Chinese toponym rather than a direct transliteration."
+Exp0,Meereen,Existing,Opaque,Zero,"弥林
+
+Rationale: I chose a transliteration-based rendering to preserve the proper-name feel of “Meereen” while making it natural in Chinese. “弥” and “林” together give a smooth, compact sound approximation and a place-name-like appearance."
+Exp0,Volantis,Existing,Opaque,Zero,"沃兰提斯
+
+我采用了音译为主的策略：将 “Volantis” 按其英文读音拆分并转写为中文近似音节，尽量保留原名的异域感与专名属性，同时避免赋予额外含义。"

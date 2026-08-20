@@ -1,0 +1,31 @@
+﻿Experiment,Toponym,Lexical Status,Transparency,Context,Output
+Exp0,Isplynia,Coined,Opaque,Zero,"伊斯普利尼亚
+
+我采用了音译策略，将 “Isplynia” 按其读音拆分并用接近的汉字对应，尽量保留原名的发音特征，同时使其符合中文地名的常见译写方式。"
+Exp0,Tospyte,Coined,Opaque,Zero,"托斯皮特
+
+Rationale: I transliterated the toponym phonetically into Chinese characters that closely approximate the sound of “Tospyte,” while keeping the form natural as a place name."
+Exp0,Rystosia,Coined,Opaque,Zero,"里斯托西亚
+
+Rationale: I transliterated the name phonetically into Chinese characters that approximate the original pronunciation while keeping it natural as a place name. “里斯托西亚” preserves the syllable structure of “Rystosia” and uses common, readable characters suitable for a toponym."
+Exp0,Kyremi,Coined,Opaque,Zero,"基雷米
+
+我采用了音译策略，将 “Kyremi” 按其大致发音转写为中文“基雷米”。这样既保留了原名的音感，也符合中文地名常见的音译习惯。"
+Exp0,Srikyme,Coined,Opaque,Zero,"斯里凯姆
+
+我采用了音译为主的策略：将 “Sri-” 处理为“斯里”，保留其开头音节的自然汉语近似；将 “-kyme” 处理为“凯姆”，兼顾读音接近与中文地名常见的音节结构。整体上尽量保持原名的发音特征，同时使译名符合中文地名的书写习惯。"
+Exp0,Piakilos,Coined,Opaque,Zero,"皮亚基洛斯
+
+我采用了音译策略，将 “Piakilos” 按其大致发音拆分为“皮亚-基-洛斯”，用中文中较自然的音节对应来保留原名的读音特征，同时避免赋予额外含义。"
+Exp0,Sedorox,Coined,Opaque,Zero,"塞多罗克
+
+Rationale: I transliterated “Sedorox” into Chinese characters that closely match its pronunciation while keeping a natural toponym-like form. “塞多罗克” preserves the syllabic flow and gives the name a place-name feel in Chinese."
+Exp0,Aelritos,Coined,Opaque,Zero,"埃尔里托斯
+
+Rationale: I rendered “Aelritos” phonetically into Chinese characters that approximate the original sound while keeping a natural toponym-like form. “埃尔里托斯” preserves the initial “Ae-” as “埃尔,” and the remaining syllables are matched with common transliteration characters to maintain readability and a place-name feel."
+Exp0,Zaloko,Coined,Opaque,Zero,"扎洛科
+
+我采用了音译策略，将 “Zaloko” 按其发音近似转写为中文地名形式“扎洛科”。这种处理保留了原名的音感与专名特征，同时符合中文地名常见的音译习惯。"
+Exp0,Kureavas,Coined,Opaque,Zero,"库雷阿瓦斯
+
+Rationale: I transliterated the toponym phonetically into Chinese characters that closely approximate the original sounds: “Ku-re-a-vas” → “库雷阿瓦斯”. This keeps it recognizable as a place name while using common, natural-sounding Chinese syllables."
